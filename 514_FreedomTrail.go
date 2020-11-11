@@ -2,6 +2,10 @@ package leetcode_go
 
 import "math"
 
+//动态规划
+//每一个字符在ring中可以有多个位置匹配, 动态规划相当于把每种可能都尝试了一遍
+//采用dp[i][j]表示用ring中位置j的字符来匹配key中位置i的字符
+
 func min(i, j int) int {
 	if i < j {
 		return i
