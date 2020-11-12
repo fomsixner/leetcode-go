@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="solve 31">
-      <change afterPath="$PROJECT_DIR$/514_FreedomTrail.go" afterDir="false" />
+    <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="solve 514">
+      <change afterPath="$PROJECT_DIR$/922_SortArrayByParity.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,10 +130,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve 31" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve 31" />
+    <MESSAGE value="solve 514" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 514" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -151,10 +153,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="771" y="263" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604909104361" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605000096124">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605094271858">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605000096124" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605094271858" />
     <state x="631" y="314" key="Github.ShareDialog" timestamp="1604971645748">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -235,10 +237,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="385" y="48" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604971425956" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1604997579670">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605086866496">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1604997579670" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605086866496" />
     <state x="1074" y="60" width="398" height="797" key="dock-window-1" timestamp="1604997476880">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
