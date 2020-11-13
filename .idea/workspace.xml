@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="solve 514">
-      <change afterPath="$PROJECT_DIR$/922_SortArrayByParity.go" afterDir="false" />
+    <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="solve 922">
+      <change afterPath="$PROJECT_DIR$/15_3Sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/328_OddEvenLinkedList.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +66,15 @@
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build 31_NextPermutation.go">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 10_RegularExpressionMatching.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="leetcode-go" />
       <working_directory value="$PROJECT_DIR$" />
@@ -106,6 +116,16 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="leetcode-go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build 31_NextPermutation.go" />
@@ -135,7 +155,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="solve 31" />
     <MESSAGE value="solve 514" />
-    <option name="LAST_COMMIT_MESSAGE" value="solve 514" />
+    <MESSAGE value="solve 922" />
+    <option name="LAST_COMMIT_MESSAGE" value="solve 922" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -153,9 +174,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="771" y="263" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604909104361" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605094271858">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1605168206676">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.26.1680.1020@0.0.1536.834" timestamp="1605168206676" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605094271858" />
     <state x="631" y="314" key="Github.ShareDialog" timestamp="1604971645748">
       <screen x="0" y="0" width="1536" height="834" />
@@ -237,10 +259,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="385" y="48" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604971425956" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605086866496">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1605144704418">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605086866496" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1605144704418" />
     <state x="1074" y="60" width="398" height="797" key="dock-window-1" timestamp="1604997476880">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
