@@ -13,7 +13,7 @@ func min(i, j int) int {
 	return j
 }
 
-func abs(x int) int {
+func Abs(x int) int {
 	if x < 0 {
 		return -x
 	}
@@ -39,7 +39,7 @@ func findRotateSteps(ring string, key string) int {
 	for i := 1; i < m; i++ {
 		for _, j := range pos[key[i]-'a'] {
 			for _, k := range pos[key[i-1]-'a'] {
-				dp[i][j] = min(dp[i][j], dp[i-1][k]+min(abs(j-k), n-abs(j-k))+1)
+				dp[i][j] = min(dp[i][j], dp[i-1][k]+min(Abs(j-k), n-Abs(j-k))+1)
 			}
 		}
 	}
