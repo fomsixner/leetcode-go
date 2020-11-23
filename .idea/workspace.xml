@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/18_4Sum.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/242_ValidAnagram.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/452_.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
