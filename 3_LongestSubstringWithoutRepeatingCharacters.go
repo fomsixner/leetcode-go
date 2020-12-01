@@ -13,13 +13,13 @@ func lengthOfLongestSubstring(s string) int {
 			// 左指针向右移动一格，移除一个字符
 			delete(m, s[i-1])
 		}
-		for rk + 1 < n && m[s[rk+1]] == 0 {
+		for rk+1 < n && m[s[rk+1]] == 0 {
 			// 不断地移动右指针
 			m[s[rk+1]]++
 			rk++
 		}
 		// 第 i 到 rk 个字符是一个极长的无重复字符子串
-		ans = max(ans, rk - i + 1)
+		ans = max(ans, rk-i+1)
 	}
 	return ans
 }
