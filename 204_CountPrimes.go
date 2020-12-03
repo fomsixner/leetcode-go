@@ -1,6 +1,7 @@
 package leetcode_go
 
 //筛表法
+//埃氏筛
 func countPrimes(n int) int {
 	if n < 2 {
 		return 0
@@ -18,15 +19,26 @@ func countPrimes(n int) int {
 	return count
 }
 
-//func isPrime(n int) bool {
-//	if n == 2 {
-//		return true
+//线性筛
+//func countPrimes(n int) int {
+//	primes := []int{}
+//	isPrime := make([]bool, n)
+//	for i := range isPrime {
+//		isPrime[i] = true
 //	}
-//	m := int(math.Sqrt(float64(n)))
-//	for i:=2; i <= m; i++ {
-//		if n % i == 0 {
-//			return false
+//	for i := 2; i < n; i++ {
+//		if isPrime[i] {
+//			primes = append(primes, i)
+//		}
+//		for _, p := range primes {
+//			if i*p >= n {
+//				break
+//			}
+//			isPrime[i*p] = false
+//			if i%p == 0 {
+//				break
+//			}
 //		}
 //	}
-//	return true
+//	return len(primes)
 //}
