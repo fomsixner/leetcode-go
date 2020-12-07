@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/621_TaskScheduler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main/118_PascalTriangle.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/861_ScoreAfterFlippingMatrix.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +60,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\goProject\leetcode-go\main" />
       <recent name="D:\goProject\leetcode-go" />
+      <recent name="D:\goProject\leetcode-go\main" />
     </key>
   </component>
   <component name="RunManager" selected="Go Build.go build 118_PascalTriangle.go">
@@ -282,11 +281,11 @@
     <state x="-1456" y="28" key="SettingsEditor/-1920.-26.1536.840/0.0.1680.1020@-1920.-26.1536.840" timestamp="1605924205149" />
     <state x="366" y="122" key="SettingsEditor/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1605924016213" />
     <state x="385" y="48" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604971425956" />
-    <state x="395" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606992893037">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1607229357520">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="395" y="183" key="Vcs.Push.Dialog.v2/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1606992893037" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1606301452975" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607229357520" />
     <state x="1108" y="50" width="398" height="797" key="dock-window-1" timestamp="1607229217972">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -329,11 +328,6 @@
           <url>file://$PROJECT_DIR$/454_4SumII.go</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/main/118_PascalTriangle.go</url>
-          <line>7</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
