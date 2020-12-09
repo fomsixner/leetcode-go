@@ -20,3 +20,8 @@ func uniquePaths(m int, n int) int {
 	}
 	return f[n][m]
 }
+
+//直接计算组合数
+//func uniquePaths(m, n int) int {
+//    return int(new(big.Int).Binomial(int64(m+n-2), int64(n-1)).Int64())
+//}
