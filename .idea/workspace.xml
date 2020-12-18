@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0262049-cfdd-4932-9cd2-1240aef89925" name="Default Changelist" comment="add">
-      <change afterPath="$PROJECT_DIR$/290_WordPattern.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/738_MonotoneIncreasingDigits.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/389_FindtheDifference.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/714_BestTime.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -159,11 +160,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="771" y="263" key="EnvironmentVariablesDialog/0.0.1536.834@0.0.1536.834" timestamp="1604909104361" />
-    <state x="417" y="221" key="FileChooserDialogImpl" timestamp="1607910083353">
+    <state x="417" y="221" key="FileChooserDialogImpl" timestamp="1608187801206">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="-1539" y="156" key="FileChooserDialogImpl/-1920.-26.1536.840/0.0.1680.1020@-1920.-26.1536.840" timestamp="1605852176091" />
-    <state x="417" y="221" key="FileChooserDialogImpl/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1607910083353" />
+    <state x="417" y="221" key="FileChooserDialogImpl/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1608187801206" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834/1920.26.1680.1020@0.0.1536.834" timestamp="1605247811067" />
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605094271858" />
     <state x="631" y="314" key="Github.ShareDialog" timestamp="1604971645748">
@@ -284,10 +285,10 @@
     <state x="-1456" y="28" key="SettingsEditor/-1920.-26.1536.840/0.0.1680.1020@-1920.-26.1536.840" timestamp="1605924205149" />
     <state x="366" y="122" key="SettingsEditor/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1605924016213" />
     <state x="385" y="48" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1604971425956" />
-    <state x="395" y="183" key="Vcs.Push.Dialog.v2" timestamp="1607909967091">
+    <state x="395" y="183" key="Vcs.Push.Dialog.v2" timestamp="1608097378136">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="395" y="183" key="Vcs.Push.Dialog.v2/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1607909967091" />
+    <state x="395" y="183" key="Vcs.Push.Dialog.v2/-1920.-26.1536.840/0.0.1680.1020@0.0.1680.1020" timestamp="1608097378136" />
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1607762785802" />
     <state x="1220" y="126" width="401" height="609" key="dock-window-1" timestamp="1608000590905">
       <screen x="0" y="0" width="1680" height="1020" />
