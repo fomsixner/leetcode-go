@@ -1,3 +1,5 @@
+package leetcode_go
+
 func maxSatisfied(customers []int, grumpy []int, X int) int {
 	n, ans := len(customers), 0
 	add := 0
@@ -7,7 +9,7 @@ func maxSatisfied(customers []int, grumpy []int, X int) int {
 			i++
 		}
 		temp := 0
-		for left, right:= i, i+X; left < right && left < n; left++ {
+		for left, right := i, i+X; left < right && left < n; left++ {
 			if grumpy[left] == 1 {
 				temp += customers[left]
 			}
