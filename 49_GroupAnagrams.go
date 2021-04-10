@@ -5,10 +5,10 @@ func match(s1, s2 string) bool {
 		return false
 	}
 	var m [26]int
-	for i, _ := range s1 {
+	for i := range s1 {
 		m[s1[i]-'a']++
 	}
-	for i, _ := range s2 {
+	for i := range s2 {
 		m[s2[i]-'a']--
 	}
 	for i := 0; i < 26; i++ {
