@@ -1,6 +1,4 @@
-package main
-
-import "fmt"
+package leetcode_go
 
 /*
  * @lc app=leetcode.cn id=65 lang=golang
@@ -63,7 +61,3 @@ func isNumber(s string) bool {
 }
 
 // @lc code=end
-
-func main() {
-	fmt.Println(isNumber("e.7e5"))
-}
